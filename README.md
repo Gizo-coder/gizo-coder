@@ -83,17 +83,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gizo-coder&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
-<!-- 🐍 Contribution snake animasyonu için:
-1. .github/workflows/snake.yml adında bir dosya oluştur (Platane/snk Action'ını kullanır)
-2. Action her gün otomatik çalışıp bir SVG üretir
-3. Üretilen SVG'yi burada şu şekilde göster:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gizo-coder/Gizo-coder/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Gizo-coder/gizo-coder/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-Kurulum detayları için: https://github.com/Platane/snk
--->
- 
----
  
 ### 💼 Uygunluk Durumu
  
