@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ### 🚀 Hakkımda
 
--- 🔭 Şu anda **[LLM App Development]** üzerinde çalışıyorum
-- 🌱 Şu anda **[Yapay Zeka ve LLM APP]** öğreniyorum
-- 🤝 **[Yeni projeler ve iş birlikleri]** için çalışmaya açığım
+- 🔭 Şu anda **LLM App Development** üzerinde çalışıyorum
+- 🌱 Şu anda **Yapay Zeka ve LLM APP** öğreniyorum
+- 🤝 **Yeni projeler ve iş birlikleri** için çalışmaya açığım
 - 💬 Bana şu konular hakkında sorabilirsin: React, Next.js, Node.js, NestJS, PostgreSQL, MongoDB
 - 💼 Muhasebe geçmişimden gelen **analitik ve detaycı** bakış açımı yazılım geliştirmeye taşıyorum
 - ⚡ "Bilanço tutmaktan Bug avlamaya geçtim"
