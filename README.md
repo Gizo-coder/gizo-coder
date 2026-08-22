@@ -78,12 +78,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gizo-coder&theme=default" alt="GitHub Streak" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gizo-coder&layout=compact&theme=default" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gizo-coder&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/Gizo-coder/gizo-coder/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
  
