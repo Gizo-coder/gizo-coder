@@ -74,7 +74,6 @@ Here are some ideas to get you started:
 ### 📊 GitHub İstatistikleri
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gizo-coder&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gizo-coder&theme=default" alt="GitHub Streak" height="165"/>
 </p>
 <p align="center">
