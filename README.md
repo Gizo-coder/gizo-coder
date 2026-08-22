@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 
 ### 🚀 Hakkımda
 
-- 🔭 Şu anda **React, Next.js, Node.js ve NestJS** ile full-stack projeler geliştiriyorum
+-- 🔭 Şu anda **[LLM App Development]** üzerinde çalışıyorum
+- 🌱 Şu anda **[Yapay Zeka ve LLM APP]** öğreniyorum
+- 🤝 **[Yeni projeler ve iş birlikleri]** için çalışmaya açığım
+- 💬 Bana şu konular hakkında sorabilirsin: React, Next.js, Node.js, NestJS, PostgreSQL, MongoDB
 - 💼 Muhasebe geçmişimden gelen **analitik ve detaycı** bakış açımı yazılım geliştirmeye taşıyorum
-- 🌱 **PostgreSQL, Prisma ORM ve TypeScript** üzerine derinleşiyorum
-- 🤝 Dinamik ekiplerde çalışmaya açığım
+- ⚡ "Bilanço tutmaktan Bug avlamaya geçtim"
 - 📍 Muğla, Türkiye
 - 📫 Bana ulaşmak için: **gizdemirci91@gmail.com**
 
@@ -70,17 +72,37 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub İstatistikleri
-
+ 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gizo-coder&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gizo-coder&theme=default" alt="GitHub Streak" height="165"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gizo-coder&layout=compact&theme=default" alt="Top Languages" />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gizo-coder&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+<!-- 🐍 Contribution snake animasyonu için:
+1. .github/workflows/snake.yml adında bir dosya oluştur (Platane/snk Action'ını kullanır)
+2. Action her gün otomatik çalışıp bir SVG üretir
+3. Üretilen SVG'yi burada şu şekilde göster:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gizo-coder/Gizo-coder/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+Kurulum detayları için: https://github.com/Platane/snk
+-->
+ 
 ---
+ 
+### 💼 Uygunluk Durumu
+ 
+> 🟢 **Yeni fırsatlara açığım** — Full-Stack / Backend Developer pozisyonları için iletişime geçebilirsiniz.
+>
+> *(Durumun değiştikçe bu satırı güncelle: 🟡 Değerlendiriyorum / 🔴 Şu an kapalı vb.)*
+ 
+---
+
 
 ### 🌐 Bağlantılar
 
