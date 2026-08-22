@@ -64,10 +64,10 @@ Here are some ideas to get you started:
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
 | **[Mind Therapy Counselling](https://mindtherapycounselling.com/how-does-it-work)** | Online terapi ve seans rezervasyon uygulaması, JWT-authenticated RESTful API'ler | React, Next.js, MongoDB |
-| **Slim Moms** | Full-stack uygulama, CRUD REST API'ler ve JWT tabanlı kimlik doğrulama | React, Node.js, MongoDB |
-| **Money Guard** | Token tabanlı kimlik doğrulamalı finansal yönetim uygulaması | React, Redux Toolkit, Axios |
-| **Tasty Treats** | Duyarlı (responsive) eko temalı landing page | HTML, CSS, JS |
-| **Green Harvet** | Dinamik filtrelemeli tarif uygulaması | HTML, CSS, Vanilla JS |
+| **[Slim Moms](https://slimmom-frontend-ivory.vercel.app/)** | Full-stack uygulama, CRUD REST API'ler ve JWT tabanlı kimlik doğrulama | React, Node.js, MongoDB |
+| **[Money Guard](https://denememoneyguard.vercel.app/)** | Token tabanlı kimlik doğrulamalı finansal yönetim uygulaması | React, Redux Toolkit, Axios |
+| **[Tasty Treats](https://team-c-js.github.io/TastyTreats/)** | Duyarlı (responsive) eko temalı landing page | HTML, CSS, JS |
+| **[Green Harvest](https://team-onbucuk.github.io/goit-new-greenharvest/)** | Dinamik filtrelemeli tarif uygulaması | HTML, CSS, Vanilla JS |
 
 > 🔗 Proje linklerini kendi repo adreslerinle güncellemeyi unutma.
 
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 ### 🌐 Bağlantılar
 
 <p align="left">
-  <a href="https://linkedin.com/in/KULLANICI_ADIN" target="_blank">
+  <a href="https://linkedin.com/in/gizem-demirci91" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:gizdemirci91@gmail.com">
