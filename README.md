@@ -99,8 +99,7 @@ Kurulum detayları için: https://github.com/Platane/snk
  
 > 🟢 **Yeni fırsatlara açığım** — Full-Stack / Backend Developer pozisyonları için iletişime geçebilirsiniz.
 >
-> *(Durumun değiştikçe bu satırı güncelle: 🟡 Değerlendiriyorum / 🔴 Şu an kapalı vb.)*
- 
+
 ---
 
 
