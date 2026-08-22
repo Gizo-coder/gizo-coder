@@ -69,8 +69,6 @@ Here are some ideas to get you started:
 | **[Tasty Treats](https://team-c-js.github.io/TastyTreats/)** | Duyarlı (responsive) eko temalı landing page | HTML, CSS, JS |
 | **[Green Harvest](https://team-onbucuk.github.io/goit-new-greenharvest/)** | Dinamik filtrelemeli tarif uygulaması | HTML, CSS, Vanilla JS |
 
-> 🔗 Proje linklerini kendi repo adreslerinle güncellemeyi unutma.
-
 ---
 
 ### 📊 GitHub İstatistikleri
