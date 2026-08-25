@@ -61,9 +61,6 @@
 ### 📊 GitHub İstatistikleri
  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gizo-coder&theme=default" alt="GitHub Streak" height="165"/>
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/Gizo-coder/gizo-coder/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
  
